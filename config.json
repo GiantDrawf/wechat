@@ -1,0 +1,11 @@
+{
+    "name": "倒闭的皮革厂",
+    "token":"p2ptoken",
+    "appID":"wx8239d082fec1242a",
+    "appScrect":"5b554430c7386e6f60d9675a5b90534f",
+    "encodingAESKey":"naLCb9qRPCbRbaq5twDBy8BX6ShcATlgmLz9HvWUfDW",
+    "apiDomain":"https://api.weixin.qq.com/",
+    "apiURL":{
+        "accessTokenApi":"%scgi-bin/token?grant_type=client_credential&appid=%s&secret=%s"
+    }
+}
